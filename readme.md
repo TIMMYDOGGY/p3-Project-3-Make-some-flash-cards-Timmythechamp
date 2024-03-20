@@ -1,0 +1,3 @@
+I want to make multiple different sets of flashcards of different topics to let the user choose between them. I want to incorporate a system to make a leaderboard for each set of flashcards. Then users can go back to the flashcards they already did and try to become better. For topics I am thinking of simple Math like 1+1, slightly harder Math like 1*1/1//1, harder math like (3x+2)*(2x-4), and finally I will draw out a shape and the user has to define it (octagon, triangle, nonagon).
+
+I will show all the cards and mark down which one the user gets wrong then show the wrong ones at the end and force them to get it right to continue(the answer will show every time you get a card wrong). 
